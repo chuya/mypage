@@ -52,6 +52,9 @@
 .section {
 	padding-bottom: 5px;
 }
+.content {
+	padding-left: 3px;
+}
 h2 {
 	font-family: Cantarell;
 }
