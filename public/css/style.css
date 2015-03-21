@@ -43,7 +43,7 @@
 .ytplayer {
 	width: 750;
 	height: 500;
-	padding-bottom: 30px;
+	/*padding-bottom: 30px;*/
 }
 .contact {
 	text-align: right;
@@ -55,9 +55,18 @@
 .content {
 	padding-left: 3px;
 }
+.portfolio_content{
+	padding-bottom: 30px;
+}
 h2 {
 	font-family: Cantarell;
 }
 h4 {
 	font-family: Cantarell;
+}
+.date{
+	display: inline;
+	float: right;
+	/*padding-right: 50px; */
+	/*color: gray;*/
 }
