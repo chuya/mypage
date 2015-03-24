@@ -70,3 +70,16 @@ h4 {
 	/*padding-right: 50px; */
 	/*color: gray;*/
 }
+a.intext{
+	color: #828286;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+::selection {
+background: #F98EB3;
+color: #fff;
+}
+::-moz-selection {
+background: #F98EB3;
+color: #fff;
+}
